@@ -24,3 +24,16 @@
 </table>
 
 <h1 align="center">PROJECTS</h1>
+
+
+Host-Parasite Interactions
+Seeking to understand the complex interactions between Brugia malayi (a filarial nematode) and its endosymbiotic bacterium, Wolbachia.
+Our studies address key questions on the reciprocal cues required in the co-dependency between the worm and the bacteria.
+
+Virus Evolution
+Investigating drivers and outcomes of respiratory virus evolution.
+We are generating novel insights into the evolutionary dynamics of respiratory pathogens.
+
+The Microbiome
+Characterizing microbial ecology in upper airways and chronic wounds.
+Our research provides a systems-level landscape of microbial communities, and defines how these communities impact infection outcomes.
