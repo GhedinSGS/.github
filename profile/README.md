@@ -100,16 +100,16 @@
 <table>
   <tr>
     <td style="text-align: center;">
-      <a href="https://github.com/GhedinSGS/SGSlab_metagenomics">
-        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/microbiome.png" alt="Project 1" width="150"/>
+      <a href="https://github.com/GhedinSGS/Wolbachia-and-ZIKV-replication">
+        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/wolbachia_zikv.jpg" alt="Wolbachia and ZIKV" width="450"/>
       </a>
-      <p>Project 1</p>
+      <p>Wolbachia & ZIKV replication</p>
     </td>
     <td style="text-align: center;">
-      <a href="https://github.com/GhedinSGS/DiVRGE">
-        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/viruses.png" alt="Project 2" width="150"/>
+      <a href="https://github.com/GhedinSGS/Brugia-malayi-microRNAs">
+        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/abstract_bm-humanMS.png" alt="Brugia malayi miRNAs" width="450"/>
       </a>
-      <p>Project 2</p>
+      <p>Brugia malayi miRNAs</p>
     </td>
   </tr>
 </table>
