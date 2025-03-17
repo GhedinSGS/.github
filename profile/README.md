@@ -12,13 +12,31 @@
       <a href="https://github.com/GhedinSGS/SGSlab_metagenomics">
         <img src="https://github.com/GhedinSGS/.github/blob/main/figures/microbiome.png" alt="Microbiome" width="150"/>
       </a>
-      <p>Metagenomics</p>
+      <p>Metagenomic Pipeline</p>
+    </td>
+    <td style="text-align: center;">
+      <a href=https://github.com/GhedinSGS/SARS-CoV-2_analysis">
+        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/viruses.png" alt="Viruses" width="150"/>
+      </a>
+      <p>SARS-CoV-2 Analysis Pipeline</p>
     </td>
     <td style="text-align: center;">
       <a href="https://github.com/GhedinSGS/DiVRGE">
-        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/viruses.png" alt="Viruses" width="150"/>
+        <img src=".png" alt="DiVRGE" width="150"/>
       </a>
-      <p>Viruses</p>
+      <p>DiVRGE</p>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://github.com/GhedinSGS/timo">
+        <img src="png" alt="timo" width="150"/>
+      </a>
+      <p>timo</p>
+    </td>
+    <td style="text-align: center;">
+      <a href="">
+        <img src="png" alt="CoverCT" width="150"/>
+      </a>
+      <p>CoverCT</p>
     </td>
   </tr>
 </table>
