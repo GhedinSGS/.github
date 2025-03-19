@@ -170,7 +170,7 @@
       <a href="https://github.com/GhedinSGS/NA_Vax_Ferret_Transmission">
         <img src="https://github.com/GhedinSGS/.github/blob/main/figures/viruses.png" alt="Flu Transmission in NA Vaccinated Ferrets" width="150"/>
       </a>
-      <p>Flu Transmission in NA Vaccinated Ferrets</p>
+      <p>Flu Transmission in NA Vaccinated Ferrets (Septer et al, 2024)</p>
     </td>
     <td style="text-align: center;">
       <a href="https://github.com/GhedinSGS/Flu_DI_study">
