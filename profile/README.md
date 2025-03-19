@@ -15,28 +15,28 @@
 <table>
   <tr>
     <td style="text-align: center;">
+      <p align="center">Tools & Pipelines</p>
       <a href="https://github.com/GhedinSGS#tools--pipelines">
         <img src="https://github.com/GhedinSGS/.github/blob/main/figures/Pipelines.png" alt="Pipelines" width="300"/>
       </a>
-      <p>Tools & Pipelines</p>
     </td>
     <td style="text-align: center;">
+      <p align = "center">The Microbiome</p>
       <a href="https://github.com/GhedinSGS#the-microbiome">
         <img src="https://github.com/GhedinSGS/.github/blob/main/figures/Microbiome.png" alt="Microbiome" width="200"/>
       </a>
-      <p>The Microbiome</p>
     </td>
     <td style="text-align: center;">
+      <p align="center">Virus Evolution</p>
       <a href="https://github.com/GhedinSGS#virus-evolution">
         <img src="https://github.com/GhedinSGS/.github/blob/main/figures/VirusEvolution.png" alt="Virus Evolution" width="200"/>
       </a>
-      <p>Virus Evolution</p>
     </td>
     <td style="text-align: center;">
+      <p align="center">Host-Parasite Interactions</p>
       <a href="https://github.com/GhedinSGS#host-parasite-interactions">
         <img src="https://github.com/GhedinSGS/.github/blob/main/figures/Host-Parasite.png" alt="Host-Parasite" width="200"/>
       </a>
-      <p>Host-Parasite Interactions</p>
     </td>
   </tr>
 </table>
