@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td style="text-align: center;">
-      <a href="https://github.com/GhedinSGS/SGSlab_metagenomics">
+      <a href="https://github.com/GhedinSGS#tools--pipelines">
         <img src="https://github.com/GhedinSGS/.github/blob/main/figures/Pipelines.png" alt="Pipelines" width="300"/>
     </td>
     <td style="text-align: center;">
