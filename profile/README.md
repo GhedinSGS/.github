@@ -5,6 +5,28 @@
 <h1 align="center">ABOUT US</h1>
 <p align="center">The Ghedin Lab is a member of the Laboratory of Parasitic Diseases at the National Institute of Allergy and Infectious Diseases (NIAID) of the NIH in Bethesda, MD. Our research is focused on defining genomic characteristics of human pathogens.  We use a multidisciplinary approach, drawing on genomics, molecular virology, parasitology, and computational biology to unravel the complex relationships between pathogens and their hosts.</p>
 
+<h1 align="center">TABLE OF CONTENTS</h1>
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://github.com/GhedinSGS/SGSlab_metagenomics">
+        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/Pipelines.png" alt="Pipelines" width="300"/>
+    </td>
+    <td style="text-align: center;">
+      <a href=https://github.com/GhedinSGS/SARS-CoV-2_analysis">
+        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/Microbiome.png" alt="Microbiome" width="200"/>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://github.com/GhedinSGS/DiVRGE">
+        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/VirusEvolution.png" alt="Virus Evolution" width="200"/>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://github.com/GhedinSGS/timo">
+        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/Host-Parasite.png" alt="Host-Parasite" width="200"/>
+    </td>
+  </tr>
+</table>
+
 <h1 align="center">TOOLS & PIPELINES</h1>
 <table>
   <tr>
