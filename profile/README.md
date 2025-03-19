@@ -13,15 +13,15 @@
         <img src="https://github.com/GhedinSGS/.github/blob/main/figures/Pipelines.png" alt="Pipelines" width="300"/>
     </td>
     <td style="text-align: center;">
-      <a href=https://github.com/GhedinSGS/SARS-CoV-2_analysis">
+      <a href="https://github.com/GhedinSGS#the-microbiome">
         <img src="https://github.com/GhedinSGS/.github/blob/main/figures/Microbiome.png" alt="Microbiome" width="200"/>
     </td>
     <td style="text-align: center;">
-      <a href="https://github.com/GhedinSGS/DiVRGE">
+      <a href="https://github.com/GhedinSGS#virus-evolution">
         <img src="https://github.com/GhedinSGS/.github/blob/main/figures/VirusEvolution.png" alt="Virus Evolution" width="200"/>
     </td>
     <td style="text-align: center;">
-      <a href="https://github.com/GhedinSGS/timo">
+      <a href="https://github.com/GhedinSGS#host-parasite-interactions">
         <img src="https://github.com/GhedinSGS/.github/blob/main/figures/Host-Parasite.png" alt="Host-Parasite" width="200"/>
     </td>
   </tr>
