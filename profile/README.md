@@ -46,35 +46,44 @@
 <h1 align="center">TOOLS & PIPELINES</h1>
 <table>
   <tr>
-    <td style="text-align: center;">
+    <td align="center">
       <a href="https://github.com/GhedinSGS/SGSlab_metagenomics">
-        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/microbiome.png" alt="Microbiome" width="150"/>
+        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/Meta_pipeline.png" alt="Microbiome" height="100" />
       </a>
-      <p>Metagenomic Pipeline</p>
+      <p>Microbiome Analysis Pipeline</p>
     </td>
-    <td style="text-align: center;">
+    <td align="center">
+      <a href="https://github.com/GhedinSGS/DiVRGE">
+        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/divrge.png" alt="DiVRGE" width="175" style="margin: auto;"/>
+      </a>
+      <p>Deletions in 
+        Viral Genomes Extractor</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/GhedinSGS/timo">
+        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/timo.png" alt="timo" width="150"/>
+      </a>
+      <p>Single Nucleotide Variant Caller</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="">
+        <img src="png" alt="CoverCT" width="150"/>
+      </a>
+      <p>CoverCT</p>
+    </td>
+    <td align="center">
+      <a href="">
+        <img src=https://github.com/GhedinSGS/.github/blob/main/figures/mope.png alt="MOPE" width="175"/>
+      </a>
+      <p>Multi-Omic Pathway Enrichment</p>
+    </td>
+    <td align="center">
       <a href=https://github.com/GhedinSGS/SARS-CoV-2_analysis">
         <img src="https://github.com/GhedinSGS/.github/blob/main/figures/viruses.png" alt="Viruses" width="150"/>
       </a>
       <p>SARS-CoV-2 Analysis Pipeline</p>
-    </td>
-    <td style="text-align: center;">
-      <a href="https://github.com/GhedinSGS/DiVRGE">
-        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/divrge.png" alt="DiVRGE" width="150"/>
-      </a>
-      <p align ="center">Deletions in Viral Genomes Extractor</p>
-    </td>
-    <td style="text-align: center;">
-      <a href="https://github.com/GhedinSGS/timo">
-        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/timo.png" alt="timo" width="150"/>
-      </a>
-      <p align = "center">Single Nucleotide Variant Caller</p>
-    </td>
-    <td style="text-align: center;">
-      <a href="">
-        <img src="png" alt="CoverCT" width="150"/>
-      </a>
-      <p align = "center">CoverCT</p>
     </td>
   </tr>
 </table>
