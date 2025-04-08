@@ -28,7 +28,7 @@
     </td>
     <td style="text-align: center;">
       <p align="center">Respiratory Virus Evolution & Host Response</p>
-      <a href="https://github.com/GhedinSGS#virus-evolution">
+      <a href="https://github.com/GhedinSGS#respiratory-virus-evolution--host-response">
         <img src="https://github.com/GhedinSGS/.github/blob/main/figures/VirusEvolution.png" alt="Respiratory Virus Evolution & Host Response" width="200"/>
       </a>
     </td>
