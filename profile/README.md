@@ -60,21 +60,21 @@
     </td>
     <td style="text-align: center;">
       <a href="https://github.com/GhedinSGS/DiVRGE">
-        <img src=".png" alt="DiVRGE" width="150"/>
+        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/divrge.png" alt="DiVRGE" width="150"/>
       </a>
-      <p>DiVRGE</p>
+      <p align ="center">Deletions in Viral Genomes Extractor</p>
     </td>
     <td style="text-align: center;">
       <a href="https://github.com/GhedinSGS/timo">
-        <img src="png" alt="timo" width="150"/>
+        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/timo.png" alt="timo" width="150"/>
       </a>
-      <p>timo</p>
+      <p align = "center">Single Nucleotide Variant Caller</p>
     </td>
     <td style="text-align: center;">
       <a href="">
         <img src="png" alt="CoverCT" width="150"/>
       </a>
-      <p>CoverCT</p>
+      <p align = "center">CoverCT</p>
     </td>
   </tr>
 </table>
