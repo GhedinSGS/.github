@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/GhedinSGS/.github/blob/main/figures/sgslab_cover.v1.png" alt="Systems Genomics Section" style="width: 100%;">
+  <img src="https://github.com/GhedinSGS/.github/blob/main/figures/sgslab_cover.png" alt="Systems Genomics Section" style="width: 100%;">
 </div>
 <br>
 
