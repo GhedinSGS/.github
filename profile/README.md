@@ -48,7 +48,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/GhedinSGS/SGSlab_metagenomics">
-        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/Meta_pipeline.png" alt="Microbiome" height="100" style="margin: auto;"/>
+        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/Meta_pipeline.png" alt="Microbiome" width="400" style="margin: auto;"/>
       </a>
       <p>Microbiome Analysis Pipeline</p>
     </td>
