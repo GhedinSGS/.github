@@ -54,14 +54,14 @@
     </td>
     <td align="center">
       <a href="https://github.com/GhedinSGS/DiVRGE">
-        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/divrge.png" alt="DiVRGE" width="175" style="margin: auto;"/>
+        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/divrge.png" alt="DiVRGE" width="200" style="margin: auto;"/>
       </a>
       <p>Deletions in 
         Viral Genomes Extractor</p>
     </td>
     <td align="center">
       <a href="https://github.com/GhedinSGS/timo">
-        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/timo.png" alt="timo" width="150"style="margin: auto;"/>
+        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/timo.png" alt="timo" width="200"style="margin: auto;"/>
       </a>
       <p>Single Nucleotide Variant Caller</p>
     </td>
@@ -69,13 +69,13 @@
   <tr>
     <td align="center">
       <a href="https://github.com/GhedinSGS/coverct">
-        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/coverct.png" alt="CoverCt" width="150" style="margin: auto;"/>
+        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/coverct.png" alt="CoverCt" width="200" style="margin: auto;"/>
       </a>
       <p>CoverCt: Ct estimates using genomic data</p>
     </td>
     <td align="center">
       <a href="">
-        <img src=https://github.com/GhedinSGS/.github/blob/main/figures/mope.png alt="MOPE" width="175" style="margin: auto;"/>
+        <img src=https://github.com/GhedinSGS/.github/blob/main/figures/mope.png alt="MOPE" width="200" style="margin: auto;"/>
       </a>
       <p>Multi-Omic Pathway Enrichment</p>
     </td>
