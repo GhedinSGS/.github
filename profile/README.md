@@ -17,7 +17,7 @@
     <td style="text-align: center;">
       <p align="center">Tools & Pipelines</p>
       <a href="https://github.com/GhedinSGS#tools--pipelines">
-        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/Pipelines.png" alt="Pipelines" width="300"/>
+        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/Pipelines.png" alt="Pipelines" width="400"/>
       </a>
     </td>
     <td style="text-align: center;">
