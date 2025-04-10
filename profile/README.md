@@ -68,10 +68,10 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="">
-        <img src="png" alt="CoverCT" width="150" style="margin: auto;"/>
+      <a href="https://github.com/GhedinSGS/coverct">
+        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/coverct.png" alt="CoverCt" width="150" style="margin: auto;"/>
       </a>
-      <p>CoverCT</p>
+      <p>CoverCt: Ct estimates using genomic data</p>
     </td>
     <td align="center">
       <a href="">
