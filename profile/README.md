@@ -48,7 +48,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/GhedinSGS/SGSlab_metagenomics">
-        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/Meta_pipeline.png" alt="Microbiome" height="100" />
+        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/Meta_pipeline.png" alt="Microbiome" height="100" style="margin: auto;"/>
       </a>
       <p>Microbiome Analysis Pipeline</p>
     </td>
@@ -61,7 +61,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/GhedinSGS/timo">
-        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/timo.png" alt="timo" width="150"/>
+        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/timo.png" alt="timo" width="150"style="margin: auto;"/>
       </a>
       <p>Single Nucleotide Variant Caller</p>
     </td>
@@ -69,19 +69,19 @@
   <tr>
     <td align="center">
       <a href="">
-        <img src="png" alt="CoverCT" width="150"/>
+        <img src="png" alt="CoverCT" width="150" style="margin: auto;"/>
       </a>
       <p>CoverCT</p>
     </td>
     <td align="center">
       <a href="">
-        <img src=https://github.com/GhedinSGS/.github/blob/main/figures/mope.png alt="MOPE" width="175"/>
+        <img src=https://github.com/GhedinSGS/.github/blob/main/figures/mope.png alt="MOPE" width="175" style="margin: auto;"/>
       </a>
       <p>Multi-Omic Pathway Enrichment</p>
     </td>
     <td align="center">
       <a href=https://github.com/GhedinSGS/SARS-CoV-2_analysis">
-        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/viruses.png" alt="Viruses" width="150"/>
+        <img src="https://github.com/GhedinSGS/.github/blob/main/figures/viruses.png" alt="Viruses" width="150" style="margin: auto;"/>
       </a>
       <p>SARS-CoV-2 Analysis Pipeline</p>
     </td>
